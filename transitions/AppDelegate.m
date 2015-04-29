@@ -37,9 +37,9 @@
     
     // Initialize tracker. Replace with your tracking ID.
     
-    [[GAI sharedInstance] trackerWithTrackingId:@"UA-62403153-2"];
+    [[GAI sharedInstance] trackerWithTrackingId:@"UA-624-2"];
     
-    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-62403153-2"];
+    id<GAITracker> tracker = [[GAI sharedInstance] trackerWithTrackingId:@"UA-624-2"];
     
     
    // id<GAITracker> tracker = [[GAI sharedInstance] defaultTracker];
